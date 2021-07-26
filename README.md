@@ -1,11 +1,8 @@
 # Sploit Zip
-###### Create & extract zip files using Sploit Zip. Sploit Zip, a open source zip extractor, <br> Sploit Zip uses Shell & Python language.
+###### Create & extract zip files using Sploit Zip. Sploit Zip, a open source zip extractor, extract & create zip files. <br> Sploit Zip uses Shell & Python language.
 
 # Requirements
-###### Python3
-###### zip
-###### unzip
-###### Tput (ncurses-utils)
+###### Python3 <br> zip <br> unzip <br> Tput (ncurses-utils)
 
 # How to Use
 ###### Sploit Zip is easier to use, first download it, extract it, go to extracted folder & type bash sz.sh -h, the <br> script will show you commands.
