@@ -31,6 +31,8 @@ clear
 tput sgr0;
 clear
 tput setaf 2;
-echo "Required tools are installed, run [bash main.sh -h] for more information."
+echo "Required tools are installed"
+sleep 2
 tput sgr0;
+clear
 exit
