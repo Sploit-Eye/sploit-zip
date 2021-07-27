@@ -33,6 +33,6 @@ clear
 tput setaf 2;
 echo "- Required tools are installed"
 sleep 1.5
-echo "- Running script
+echo "- Running script"
 tput sgr0;
 python3 main.py
