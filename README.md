@@ -2,7 +2,7 @@
 ###### Brute force zip file passwords using Sploit Zip. Crack zip file passwords using Sploit Zip. Sploit Zip uses Shell & Python language.
 
 # Requirements
-###### Python3 <br> tqdm (pip) <br> pip <br> Tput (ncurses-utils)
+###### Python3 <br> john
 
 # How to Use
 ###### Sploit Zip is easier to use, first download it, extract it, go to extracted folder & type python3 main.py, the script will start running.
