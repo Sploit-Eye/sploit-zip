@@ -1,5 +1,5 @@
 # Sploit Zip
-###### Bruet force zip file passwords using Sploit Zip. Crack zip file passwords using Sploit Zip. Sploit Zip uses Shell & Python language.
+###### Brute force zip file passwords using Sploit Zip. Crack zip file passwords using Sploit Zip. Sploit Zip uses Shell & Python language.
 
 # Requirements
 ###### Python3 <br> tqdm (pip) <br> pip <br> Tput (ncurses-utils)
